@@ -1,0 +1,28 @@
+.App {
+    text-align: center;
+    padding: 30px;
+}
+
+.counter button {
+    margin-top: 10px;
+}
+
+.filter-list {
+    margin-top: 40px;
+    max-width: 400px;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: left;
+    padding: 20px;
+    border: 1px solid #ddd;
+    border-radius: 8px;
+    background-color: #f9f9f9;
+}
+
+.filter-list h1 {
+    margin-bottom: 20px;
+}
+
+.form-group .dropdown-menu {
+    z-index: 1000;
+}
