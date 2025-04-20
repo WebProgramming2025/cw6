@@ -25,7 +25,7 @@ class App extends Component {
     render() {
         return (
             <div className="App">
-                <HelloWorld name="Tarun Gadiraju" />
+                <HelloWorld name="Tarun Gadhiraju" />
                 <Counter />
                 <FilteredList items={produce} />
             </div>
